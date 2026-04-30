@@ -970,7 +970,7 @@ for r in ~/mini-soc/rules/yara/*.yar; do yara -r "$r" /tmp/ 2>/dev/null; done
 ```
 2. Final Threat Hunt Run
 ```
-~/mini-soc/scripts/run_all_hunts.sh | tee ~/mini-soc/reports/hunt_report_$(date +%Y%m%d).
+~/mini-soc/scripts/run_all_hunts.sh | tee ~/mini-soc/reports/hunt_report_$(date +%Y%m%d).txt
 ```
 3. Verify Report Generation
 ```
