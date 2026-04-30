@@ -1056,5 +1056,3 @@ And that is the complete end-to-end incident response! Evidence captured, system
 
 ---
 *Mini SOC — Group Member Names | Murad Salaytah, Jameel Fakhoury, Nikita Mikhaylov, Mohammad Amr*.
-
-**Platform**: Kali Linux
