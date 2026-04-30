@@ -1003,7 +1003,7 @@ echo "Cron persistence:" >> ~/mini-soc/reports/attack3_revshell.txt
 crontab -l >> ~/mini-soc/reports/attack3_revshell.txt
 
 echo "Suricata alerts:" >> ~/mini-soc/reports/attack3_revshell.txt
-grep -E "ICMP|Tunnel|Shell" /var/log/suricata/fast.log >> ~/mini-soc/reports/attack3_r
+grep -E "ICMP|Tunnel|Shell" /var/log/suricata/fast.log >> ~/mini-soc/reports/attack3_revshell.txt
 ```
 ### Step 6: Sanitize and Clean Up
 
