@@ -1057,8 +1057,4 @@ And that is the complete end-to-end incident response! Evidence captured, system
 ---
 *Mini SOC — Group Member Names | Murad Salaytah, Jameel Fakhoury, Nikita Mikhaylov, Mohammad Amr*.
 
-**Tools**: Suricata · Zeek · YARA · Python · tcpdump · Wireshark · Nmap · Apache*
-
-**Framework**: MITRE ATT&CK
-
 **Platform**: Kali Linux
