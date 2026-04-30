@@ -21,8 +21,6 @@
 ### 1.1 Prerequisites
 - Kali Linux (2024.x or later) — bare-metal or VM (VMware/VirtualBox)
 - Minimum: 4 CPU cores, 8 GB RAM, 60 GB disk
-- Two network interfaces recommended: one external (internet), one internal (lab/attack net)
-- Optional: A second VM (Ubuntu/Windows) to act as the "victim" machine
 
 ### 1.2 Update Kali and Install Core Tools
 
