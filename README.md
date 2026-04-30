@@ -894,8 +894,8 @@ chmod +x ~/mini-soc/scripts/run_all_hunts.sh
 │  ATTACKER VM    │    │   DEFENDER/SOC       │
 │  (Kali Linux)   │◄──►│   (Kali Linux)       │
 │  192.168.56.101 │    │   192.168.56.100     │
-│                 │    │  Suricata + Zeek      │
-│                 │    │  Apache + auth.log    │
+│                 │    │                      │
+│                 │    │                      │
 └─────────────────┘    └──────────────────────┘
       Host-Only / Internal Network
 ```
