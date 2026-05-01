@@ -907,7 +907,7 @@ python3 ~/mini-soc/scripts/auth_collector.py &
 python3 ~/mini-soc/scripts/web_collector.py &
 python3 ~/mini-soc/scripts/suricata_collector.py &
 ~/mini-soc/scripts/zeek_sync.sh &
-sudo tcpdump -i eth0 -w ~/mini-soc/pcaps/live.pcap &
+sudo -v tcpdump -i eth0 -w ~/mini-soc/pcaps/live.pcap &
 ```
 
 ### Step 2: Launch the SIEM Dashboard (Terminal 1)
